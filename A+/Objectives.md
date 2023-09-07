@@ -1,10 +1,9 @@
 
-# Core 1
-https://partners.comptia.org/docs/default-source/resources/comptia-a-220-1101-exam-objectives-(3-0)
-
-## Mobile Devices
-### Install and configure laptop hardware and components.
-### Compare and contrast the display components of mobile devices.
+# [Core 1](https://partners.comptia.org/docs/default-source/resources/comptia-a-220-1101-exam-objectives-(3-0))
+---
+## 1.0 Mobile Devices
+###    - Install and configure laptop hardware and components.
+###    Compare and contrast the display components of mobile devices.
 ### Set up and configure accessories and ports of mobile devices.
 ### Configure basic mobile-devices network connectivity and application suppot.
 
@@ -39,9 +38,8 @@ https://partners.comptia.org/docs/default-source/resources/comptia-a-220-1101-ex
 ### Troublshoot and resolve printer issues.
 ### Troubleshoot problems with wired and wireless networks.
 
-# Core 2
-https://partners.comptia.org/docs/default-source/resources/comptia-a-220-1102-exam-objectives-(3-0)
-
+# [Core 2](https://partners.comptia.org/docs/default-source/resources/comptia-a-220-1102-exam-objectives-(3-0))
+---
 ## Operating Systems
 ### Identify basic features of Microsoft Windows editions.
 ### Use the appropriate Microsoft command-line tool.

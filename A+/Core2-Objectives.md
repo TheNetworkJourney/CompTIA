@@ -304,15 +304,150 @@
          
 ### 2.0 Security
     2.1 Summarize various security measures and their purposes.
-    
+        Physical Security
+        -Access Control Vestibule
+        -Badge Reader
+        -Video Surveillance
+        -Alarm Systems
+        -Motion Sensor
+        -Door Locks
+        -Equipment Locks
+        -Guards
+        -Bollards
+        -Fences
+
+        Physical Security for Staff
+        -Key fobs
+        -Smart Cards
+        -Keys
+        -Biometrics
+            -Retina Scanner
+            -Fingerprint scanner
+            -Palmprint scanner
+        -Lighting
+        -Magnetometers
+
+        Logical Security
+        -Principle of least privilege
+        -Access Control List (ACL)
+        -Multifactor authentication (MFA)
+        -Email
+        -Hard Token
+        -Soft Token
+        -Short Message Authentication (SMS)
+        -Voice Call
+        -Authenticator App
+
+        Mobile Device Management (MDM)
+
+        Active Directory
+        -Login Script
+        -Domain
+        -Group Policy/Updates
+        -Organizational Units
+        -Home Folder
+        -Folder Redirection
+        -Security Groups
+        
     2.2 Compare and contrast wireless security protocols and authentication methods.
-    
+        Protocols and Encryption
+        -WiFi Protected Access 2 (WPA2)
+        -WPA3
+        -Temporal Key Integrity Protocol (TKIP)
+        -Advanced Encryption Standard (AES)
+
+        Authentication
+        -Remote Authentication Dial-in User Services (RADIUS)
+        -Terminal Access Controller Access-Control System (TACAC+)
+
+        -Kerberos
+        -Multifactor
+        
     2.3 Detect, remove, and prevent malware using the appropriate tools and methods.
-    
+        Malware
+        -Trojan
+        -Rootkit
+        -Virus
+        -Spyware
+        -Ransomware
+        -Keylogger
+        -Boot Secotr Virus
+        -Cryptominers
+
+        Tools and Methods
+        -Recovery Mode
+        -Antivirus
+        -Anti-malware
+        -Software Firewalls
+        -Anti-phishing Training
+        -User Education Regarding common threats
+        -OS reinstallation
+        
     2.4 Explain common social-engineering attacks, threats, and vulnerabilities.
-    
+        Social Engineering
+        -Phishing
+        -Vishing
+        -Should Surfing
+        -Whaling
+        -Tailgating
+        -Impersonation
+        -Dumpster Diving
+        -Evil Twin
+
+        Threats
+        -Distributed denial of service (DDoS)
+        -Denial of service (DoS)
+        -Zero-day attack
+        -Spoofing
+        -On-path attack
+        -Brute-force attack
+        -Dictionary Attack
+        -Insider Threat
+        -Structured Query Language (SQL) Injection
+        -Cross-site scripting (XSS)
+
+        Vulnerabilities
+        -Non-compliant systems
+        -Unpatched Systems
+        -Unprotected systems
+        -EOL OSs
+        -Bring your own Device (BSOD)
+        
     2.5 Manage and configure basic security settings in the Microsoft Windows OS.
-    
+        Defender Antivirus
+        -Activate/Deactivate
+        -Updated Definitions
+
+        Firewall
+        -Activate/Deactivate
+        -Port Security
+        -App Security
+
+        Users and Groups
+        -Local vs Microsoft Account
+        -Standard Account
+        -Administrator
+        -Guest User
+        -Power User
+
+        Login OS Options
+        -Username and Password
+        -Personal Identification Number (PIN)
+        -Fingerprint
+        -Facial Recognition
+        -Single Sign-on (SSO)
+
+        NTFS vs Share Permissions
+        -File and folder attributes
+        -Inheritance
+
+        Run as admin vs standard user
+        -User Account Control (UAC)
+
+        -Bitlocker
+        -Bitlocker to go
+        -Encrypting File System (EFS)
+        
     2.6 Configure a workstation to meet best practices for security.
     
     2.7 Explain common methods for securing mobile and embedded devices.

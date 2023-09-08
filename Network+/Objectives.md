@@ -295,17 +295,157 @@ This is my own personal knowledge of the subjects of the Network+ as I am learni
 ## 2.0 Network Fundamentals
 
     2.1 Compare and contrast various devices, their features, adn their appropriate placement on the network.
+        Networking Devices
+        -Layer 2 Switch
+        -Layer 3 Capable Switch
+        -Router
+        -Hub
+        -Access Point
+        -Bridge
+        -Wireless LAN Controller
+        -Load Balancer
+        -Proxy Server
+        -Cable Modem
+        -DSL Modem
+        -Repeater
+        -Voice Gateway
+        -Media Converter
+        -Intrusion Prevention System (IPS)/Intrusion Detection System (IDS) Device
+        -Firewall
+        -VPN Headend
 
+        Networked Devices
+        -Voice over Internet Protocol (VoIP) Phone
+        -Printer
+        -Physical Access Control Devices
+        -Cameras
+        -Heating, Ventilation, and Air Conditioning (HVACS) sensors
+        -Internet of Things (IoT)
+        -Industrial Control Systems/Supervisory Control and Data Acquisition (SCADA)
+        
     2.2 Compare and contrast routing technologies and bandwidth management concepts.
+        Routing
+        -Dynamic Routing
+            -Protocols (RIP,OSPF,EIGRP,BGP)
+            -Link state vs distance vector vs hybrid
+        -Static Routing
+        -Default Routing
+        -Administrative Distance
+        -Exterior vs Interior
+        -Time to Live
 
+        Bandwidth Management
+        -Traffic Shaping
+        -Quality of Server (QoS)
     2.3 Given a scenario, configure and deploy common ethernet switching features.
-
+        -Data Virtual Local Area Network (VLAN)
+        -Voice VLAN
+        Port Configuration
+            -Port Tagging/802.1Q
+            -Port Aggregation
+                Link Aggregation Contol Protocol (LACP)
+            -Duplex
+            -Speed
+            -Flow Control
+            -Port Mirroring
+            -Port Security
+            -Jumbo Frames
+            -Auto-medium-dependent interface crossover (MD-X)
+        -Media Access Control (MAC) address Tables
+        -Power of Ethernet (PoE)/Power over Ethernet plus (PoE+)
+        -Spanning Tree Protocol
+        -Carrier-sense multiple access with collision detection (CSMA/CD)
+        -Address Resolution Protocol (ARP)
+        -Neighbor Discovery Protocol
+        
     2.4 Given a scenario, install and configure the appropriate wireless standards and technologies.
+        802.11 Standards
+        -a
+        -b
+        -g
+        -n
+        -ac
+        -ax
 
+        Freq and Range
+        -2.4
+        -5
+
+        Channels
+        -Regulatory Impacts
+
+        Service Set Identifier (SSID)
+        -Basic Service Set
+        -Extended Service Set
+        -Independent basic service set (Ad-hoc)
+        -Roaming
+
+        Antenna Types
+        -Omni
+        -Directional
+
+        Encryption Standards
+        -WiFi Protected Access (WPA)/WPA2 Personal[Advanced Encryption Standard (AES)]/Temporal Key Integrity Protocol (TKIP)
+        -WPA/WPA2 Enterprise(AES/TKIP)
+
+        Cellular Technologies
+        -Code-division mutliple access (CDMA)
+        -Global System for Mobile Communications (GSM)
+        -Long-term Evolution (LTE)
+        -3G,4G,5G
+
+        Multiple input, multiple output (MIMO) and Mulit user MIMO (MU-MIMO)
+        
 ## 3.0 Network Operations
 
     3.1 Given a scenario, use the appropriate statistics and sensors to ensure network availibility.
+        Performance Metrics/Sensors
+        -Device/Chassis
+            -Temp
+            -CPU Usage
+            -Memory
+        -Network Metrics
+            -Bandwidth
+            -Latency
+            -Jitter
+            
+        SNMP
+        -Traps
+        -Object Identifiers (OIDs)
+        -Management Information Bases (MIBs)
 
+        Network Device Logs
+        -Log Reviews
+            -Traffic
+            -Audit
+            -Syslog
+        -Logging Levels/Severity Levels
+        
+        Interface Statistics/Status
+        -Link State (up/down)
+        -speed/duplex
+        -send/receive traffic
+        -Cyclic Redundancy checks (CRCs)
+        -Protocol Packet and byte count
+        
+        Interface Errors or Alerts
+        -CRC erros
+        -Giants
+        -Runts
+        -Encapsulation errors
+        
+        Enviromental Factors and Sensors
+        -Temp
+        -Humidity
+        -Electrical
+        -Flooding
+        
+        Baselines
+
+        NetFlow Data
+
+        Uptime/Downtime
+        
     3.2 Explain the purpose of organizational documents and policies.
 
     3.3 Explain high availibility and disaster recovery concepts and summarize which is the best solution.

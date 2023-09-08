@@ -29,17 +29,182 @@
         -Headsets-
         -Speakers-
         -Webcams-
-    1.4 Configure basic mobile-devices network connectivity and application suppot.
 
+        All accessories connect with various connection types
+        -Universal Serial Bus (USB)-
+        -Lightning-
+        -Serial Interfaces-
+        -Near-field Communications-
+        -Bluetooth-
+        -Hotspot-
+
+        Docking Statinos-
+        Port Replicator-
+        Trackpad/Drawing Pad-
+        
+    1.4 Configure basic mobile-devices network connectivity and application suppot.
+        Wireless/cell data networks (enable/disable)
+        -2G
+        -3G
+        -4G
+        -5G
+        -Global System for Mobile Communications (GSM)-
+        -Code-division Multiple Access (CDMA)-
+        -Preferred Roaming List (PRL) Updats-
+
+        Bluetoot
+        -Enable-
+        -Pairing-
+        -Enter PIN-
+        -Test Connectivity-
+
+        Location Services
+        -Global Positioning System (GPS)-
+        -Cellular Location Services-
+
+        Mobile Device Management (MDM)/Mobile Application Management (MAM)
+        -Corporate Email Configuration-
+        -Two-Factor Authentication-
+        -Corporate Applications-
+
+        Mobile Device Synchronization
+        -Account Setup (Microsoft 365, Google Workspace, iCloud)
+        Data Synchronization (Mail, Photos, Calender, Contacts, Recognizing data caps)
+        
 ### 2.0 Networking
     2.1 Compare and contrast TCP and UDP ports, protocols, and their purposes.
+        Ports and Protocols
+        -20/21- File Transfer Protocol (FTP)
+        -22 Secure Shell (SSH)
+        -23 Telnet-
+        -25 Simple Mail Transfer Protocol (SMTP)-
+        -53 Domain Name System (DNS)
+        -67/68 Dynamic Host Configuration Protocol (DHCP)
+        -80 Hypertext Transfer Protocol (HTTP)
+        -110 Post Office Protocol 3 (POP3)
+        -137/139 Network Basic Input/Output System (NetBIOS)
+        -143 Internet Mail Access Protocol (IMAP)
+        -161/162 Simple Network Management Protocol (SNMP)
+        -389 Ligthweight Directory Access Protocol (LDAP)
+        -443 Hypertext Transfer Protocol Secure (HTTPS)
+        -445 Server Message Block (SMB)/Common Internet File System (CIFS)
+        -3389 Remote Desktop Protocol (RDP)
+
+        TCP vs UDP
+        -Connectionless vs Connection-oriented
+        
     2.2 Compare and contrast common networking hardware.
+        -Router
+        -Switch (Managed/Unmanaged)
+        -Access Points
+        -Patch Panel
+        -Firewall
+        -Power of Ethernet (PoE)
+            -Injectors
+            -Switch
+            -PoE Standards
+        -Hub
+        -Cable Modem
+        -Digital Subscriber Line (DSL)
+        -Optical Network Terminal (ONT)
+        -Network Interface Card (NIC)
+        -Software-defined Networking (SDN)
+        
     2.3 Compare and contrast protocols for wireless networking.
+        Freq
+        -2.4GHz
+        -5GHz
+        
+        Channels
+        -Regulations
+        -2.4 vs 5
+        
+        Bluetooth
+
+        802.11 Standards (a,b,g,n,ac,ax)
+
+        Long-range fixed wireless
+        -Licensed
+        -Unlicensed
+        -Power
+        -Regulatory Req for wireless power
+        
+        Near-field Communications (NFC)
+
+        Radio-Frequency Identification (RFID)
+        
     2.4 Summarize services provided by networked hosts.
+        Server Roles
+        -DNS
+        -DHCP
+        -Fileshare
+        -Print Server
+        -Mail Server
+        -Syslog
+        -Web Servers
+        -Authentication, Authorization, and Accounting (AAA)
+
+        Internet Appliances
+        -Spam Gateway
+        -Unified Threat Management (UTM)
+        -Load Balancers
+        -Proxy Servers
+
+        Legacy/Embedded Systems
+        -Supervisory Control and Data Acquisition (SCADA)
+    
     2.5 Install and configure basic wired/wireless small office/home office networks.
+        Internet Protocol (IP) Addressing
+        -IPv4 (Private/Public)
+        -IPv6
+        -Automatic Private IP Addressing (APIPA)
+        -Static
+        -Dynamic
+        -Gateway
+        
     2.6 Compare and contrast common network configuration concepts.
+        DNS
+        -Address (A,AAAA)
+        -Mail Exchanger (MX)
+        -Text (TXT)
+            -Spam Management
+            -DomainKeys Identified Mail (DKIM)
+            -Sender Policy Framework (SPF)
+            -Domain-based Message Authentication, Reporting, adn Conformance (DMARC)
+        DHCP
+        -Leases
+        -Reservations
+        -Scope
+
+        Virtual LAN (VLAN)
+        Virtual Private Network (VPN)
+    
     2.7 Compare and contrast internet connection types, network types, and their features.
+        Internet Connection Types
+        -Satellite
+        -Fiber
+        -Cable
+        -DSL
+        -Cellular
+        -Wireless Internet Service Provider (WISP)
+
+        Netwokr Types
+        -Local Area Network (LAN)
+        -Wide Area Network (WAN)
+        -Personal Area Network (PAN)
+        -Metropolitan Area Network (MAN)
+        -Storage Area Network (SAN)
+        -Wireless Local Area Network (WLAN)
+    
     2.8 Use network tools.
+    -Crimper
+    -Cable Stripper
+    -WiFi Analyzer
+    -Toner Probe
+    -Punchdown Tool
+    -Cable Tester
+    -Loopback Plug
+    -Network Tap
 
 ### 3.0 Hardware
     3.1 Explain basic cable tupes and their connectors, features, and purposes.

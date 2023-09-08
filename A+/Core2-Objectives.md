@@ -325,15 +325,88 @@
 
 ### 3.0 Software Troubleshooting
     3.1 Troubleshoot common Windows OS problems.
-    
-    3.2 Troubleshoot common personal computer security issues.
-    
-    3.3 Use best practice procedures for malware removal.
-    
-    3.4Troubleshoot common mobile OS and application issues.
-    
-    3.5 Troubleshoot common mobile OS and application security issues.
+        Common Symptoms
+        -Blue Screen of Death (BSOD)
+        -Sluggish Performance
+        -Boot Problems
+        -Frequent Shutdowns
+        -Services not Starting
+        -Application Crashing
+        -Low Memory Warning
+        -USB Controller Resource Warning
+        -System Instability
+        -No OS found
+        -SLow Profile Load
+        -Time Drift
 
+        Common Troubleshooting Steps
+        -Reboot
+        -Restart Services
+        -Uninstall/Reinstall/Update App
+        -Add Resource
+        -Verify Req
+        -System File Check
+        -Repair Windows
+        -Restore
+        -Roll Back Updates
+        -Rebuild Windows Profiles
+        
+    3.2 Troubleshoot common personal computer security issues.
+        Common Symptoms
+        -Unable to access the network
+        -Desktop Alerts
+        -False Alerts Regarding Antivirus protection
+        -Altered System or Personal Files (Missing/Renamed Files)
+        -Unwanted notifications within OS
+        -OS update Failures
+
+        Browser-related Symptoms
+        -Random/Frequent pop-ups
+        -Certificate Warnings
+        -Redirection
+        
+    3.3 Use best practice procedures for malware removal.
+        1. Investigate and Verify Malware symptoms
+        2. Quarantine Infected Systems
+        3. Disable System Restor in Windows
+        4. Remediate infected systems
+        5. Schedule scans and run updates
+        6. Enable Systam Restore and Create a restore point in windows
+        7. Educate the end user
+        
+    3.4Troubleshoot common mobile OS and application issues.
+        Common Symptoms
+        -App fails to launch
+        -App fails to close/crashes
+        -App fails to update
+        -Slow to respond
+        -OS fails to update
+        -Battery Life Issues
+        -Randomly reboots
+        -Connectivity Issues
+            -Bluetooth
+            -WiFi
+            -NFC
+            -AirDRop
+        -Screen does not autorotate
+        
+    3.5 Troubleshoot common mobile OS and application security issues.
+        Security Concerns
+        -Android Package (APK) source
+        -Developer Mode
+        -Root access/jailbreak
+        -Bootleg/malicious app (App Spoofing)
+
+        Common Symptoms
+        -High Network Traffic
+        -Sluggish Response time
+        -Data-usage limit notification
+        -limited internet connectivity
+        -High number of ads
+        -fake security Warning
+        -unexpected app behavior
+        -Leaked personal file/data
+        
 ### 4.0 Operational Procedures
     4.1 Implement best practices associated with documentation and support systems information management.
     

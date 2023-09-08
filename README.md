@@ -16,12 +16,12 @@ Core 1:
 - 1.0 Mobile Devices = 0% Complete
 - 2.0 Networking = 0% Complete
 - 3.0 Hardware = 0% Complete
-- Virtualization and Cloud Computing = 0% Complete
-- Hardware and Network Troubleshooting = 0% Complete
+- 4.0 Virtualization and Cloud Computing = 0% Complete
+- 5.0 Hardware and Network Troubleshooting = 0% Complete
 
 Core 2:
-- Operating Systems = 0% Complete
-- Security = 0% Complete
-- Software Troubleshooting = 0% Complete
-- Operational Procedures = 0% Complete
+- 1.0 Operating Systems = 0% Complete
+- 2.0 Security = 0% Complete
+- 3.0 Software Troubleshooting = 0% Complete
+- 4.0 Operational Procedures = 0% Complete
   

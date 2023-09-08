@@ -356,30 +356,177 @@
         -Ethernet
         -Wireless
 
-        Public
+        Public/Shared Device
+        -Printer Share
+        -Print Server
+
+        Configuration Settings
+        -Duplex
+        -Orientation
+        -Tray Settings
+        -Quality
+
+        Security
+        -User Authentication
+        -Badging
+        -Audit Logs
+        -Secured Prints
+
+        Network Scan Services
+        -Email
+        -SMB
+        -CLoud Services
+
+        Automatic Document Feeder (ADF)/Flatbed Scanner
     
     3.7 Install and replace printer consumables.
+        Laser
+        -Components: Imaging Drum, Fuser Assembly, Transfer Belt, Transfer Roller, Pickup Rollers, Separation Pads, Duplexing Assembly
+        -Imaging Process: Processing, Charging, Exposing, Developing, Transfering, Fusing, and Cleaning
+        -Maintenance: Replace Toner, Apply Maintenance Kit, Calibrate, Clean
+
+        Inkjet
+        -Components: Ink Cartridge, Print Head, Roller, Feeder, Duplexing Assembly, Carriage Belt
+        -Calibration
+        -Maintenance: Clean Heads, Replace Cartridges, Calibrate, Clear Jams
+
+        Impact
+        -Components: Print Head, Ribbon, Tractor Feed
+        -Impact Paper
+        -Maintenance: Replace Ribbon, Replace Print Head, Replace Paper
+
+        3-D Printer
+        -Filament
+        -Resin
+        -Print Bed
 
 ### 4.0 Virtualization and Cloud Computing
     4.1 Summarize cloud-computing concepts.
+        Common Cloud Models
+        -Private
+        -Public
+        -Hybrid
+        -Community
+        -Infrastructure as a Service (IaaS)
+        -Software as a Service (SaaS)
+        -Platform as a Service (PaaS)
+
+        Cloud Chrarcterics
+        -Shared Resources
+        -Metered Utilization
+        -Rapid Elasticity
+        -High Availibility
+        -File Synchronization
+
+        Desktop Virtualization
+        -Virtual Desktop Infrastructure (VDI) on premises
+        -VDI in the cloud
     
     4.2 Summarize aspects of client-side virtualization.
+        Purposes of VMs
+        -Sandbox
+        -Test Development
+        -Application Virutalization (Legacy Software/OS, Cross-platform Virtualization)
+
+        Resource Requirements
+
+        Security Requirements
 
 ### 5.0 Hardware and Network Troubleshooting
     5.1 Apply the best practice methodology to resolve problems.
-    
+        Always consider corporate policies, procedures, and impacts before implementing changes.
+        1. Identify the problem. (Gather Info from user, user changes, enviromental changes)
+        2. Establish a theory of probable cause
+        3. Test the theory to determine the cause
+        4. Establish a plan of action to resolve the problem and implement solutions
+        5. Verify full system functionality and implement preventive measures.
+        6. Document findings, actions, and outcomes.
+        
     5.2 Troubleshoot problems related to motherboards, RAM, CPU, and power.
-    
+        Common symptoms
+        -Power-on self-test (POST) beeps
+        -Propietary crash screens (Blue screen of death (BSOD))
+        -Black Screen
+        -No power
+        -Sluggish Performance
+        -Overheating
+        -Burning Smell
+        -Intermittent shutdown
+        -Application crashes
+        -Grinding Noise
+        -Capacitor Swelling
+        -Inaccurate System Date/Time
+        
     5.3 Troubleshoot and diagnose problems with storage drives and RAID arrays.
-    
+        Common Symptoms
+        -LED Status Indicators
+        -Grinding Noise
+        -Clicking Sounds
+        -Bootable Device not found
+        -Data Loss/Corruption
+        -RAID Failure
+        -Self-monitoring, analysis, and reporting technology (S.M.A.R.T.) failure
+        -Extended read/write times
+        -Input/Output operations per seconds (IOPS)
+        -Missing drives in OS
+        
     5.4 Troubleshoot video, projector, and display issues.
-    
+        Common Symptoms
+        -Incorrect data source
+        -Physical cabling issue
+        -Burned-out bulb
+        -Fuzzy image
+        -Display burn-in
+        -Dead pixels
+        -Flashing screen
+        -Incorrect color display
+        -Audio Issue
+        -Dim Image
+        -Intermittent projector shutdown
+        
     5.5 Troubleshoot common issues with mobile devices.
-    
+        Common Symptoms
+        -Poor Battery Health
+        -Swollen Battery
+        -Broken Screen
+        -Improper Charge
+        -Poor/no Connection
+        -Liquid Damage
+        -Overheating
+        -Digitizer Issues
+        -Physically damaged ports
+        -Malware
+        -Cursor drift/touch calibration
+        
     5.6 Troublshoot and resolve printer issues.
-    
+        Common Symptoms
+        -Lines down printed page
+        -Garbled print
+        -Toner not fusing to paper
+        -Paper jam
+        -Faded print
+        -Incorrect paper size
+        -Paper not feeding
+        -Multipage misfeed
+        -Multiple prints pending in queue
+        -Speckling on printed pages
+        -Double/echo images on the print
+        -Incorrect color settings
+        -Grinding noise
+        -Finishing Issues (Staple Jam, Hole Punch)
+        -Incorrect page orientation
+        
     5.7 Troubleshoot problems with wired and wireless networks.
-
+        Common Symptoms
+        -Intermittent Wirelees connectivity
+        -Slow network speeds
+        -Limited connnectivity
+        -Jitter
+        -Poor Voice over Internet Protocol (VoIP) quality
+        -Port Flapping
+        -High Latency
+        -External Interface
+        
 # [Core 2](https://partners.comptia.org/docs/default-source/resources/comptia-a-220-1102-exam-objectives-(3-0))
 ---
 ### 1.0 Operating Systems

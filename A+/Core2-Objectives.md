@@ -637,20 +637,161 @@
         
 ### 4.0 Operational Procedures
     4.1 Implement best practices associated with documentation and support systems information management.
-    
+        Ticketing Systems
+        -User Information
+        -Device Information
+        -Description of problems
+        -Categories
+        -severity
+        -escalation levels
+        -clear, concise communications
+
+        Asset Management
+        -Inventory List
+        -Database System
+        -Asset Tags and IDs
+        -Procurement life cycle
+        -Warranty and licensing
+        -assigned users
+
+        Types of Documents
+        -Acceptable use policy (AUP)
+        -Network topology diagram
+        -Regulatory compliance req (splash screens)
+        -Incident Reports
+        -Standard operating procedures
+            -Procedures of custom installing software
+        -New-user setup checklist
+        -End-user termination checklist
+
+        Knowledge base/Articles
+        
     4.2 Explain basic change-management best practices.
-    
+        Documented business processes
+        -rollback plan
+        -sandbox testing
+        -responsible staff
+
+        Change in Management
+        -Request forms
+        -Purpose of the change
+        -scope of the change
+        -date and time of change
+        -affected systems/impact
+        -risk analysis
+        -change board approvals
+        -end-user acceptance
+        
     4.3 Implement workstation backup and recovery methods.
-    
+        Backup and Recovery
+        -Full
+        -Incremental
+        -Differential
+        -Synthetic
+
+        Backup testing (Freq)
+
+        Backup rotation schemes
+        -on site vs off site
+        -grandfather-father-son (GFS)
+        -3-2-1 backup rule
+        
     4.4 Use common safety procedures.
-    
+        -Electrostatic discharge (ESD) straps
+        -ESD mats
+        -Equipment grounding
+        -Proper power handling
+        -Proper component handling and storage
+        -antistatic bags
+        -compliance with gov regs
+
+        Personal Safety
+        -Disconnect power before repairing
+        -Lifting techniques
+        -Electrical fire safety
+        -safety goggles
+        -air filtration mask
+        
     4.5 Summarize environment impacts and local environmental controls.
-    
+        Material Safety Data Sheet (MSDA)/documentation for handling and disposal
+        -Proper battery disposal
+        -Proper toner disposal
+        -Proper disposal of other devices and assets
+
+        Tempature, Humidity-level awareness, and proper ventilation
+        -location/equipment placement
+        -dust cleanup
+        -compressed air/vacuum
+
+        Power surges, under-voltage, power failures
+        -Battery backup
+        -surge suppressor
+        
     4.6 Explain the importance of prohibited content/activity and privacy, licensing, and policy concepts.
-    
+        Incident Response
+        -Chain of custody
+        -infrom management/law enforcement
+        -copy of drive
+        -documentation of incident
+
+        Licensing/digital rights management (DRM)/end-user license agreement (EULA)
+        -valid license
+        -Non-expired license
+        -personal use license vs corporate use
+        -open-source license
+
+        Regulated Data
+        -Credit card transactions
+        -Personal Government-issued info
+        -PII
+        -Healthcare data
+        -Data retention req
+        
     4.7 Use proper communication techniques and professionalism.
-    
+        -Profesional appearance and attire
+        -Proper language
+        -Active listening
+        -on time
+        -Avoid distractions
+        -Dealing with difficutl customers
+        -set and meet expectations/time line
+        
     4.8 Identify the basics of scripting.
-    
+        Script File Types
+        -.bat
+        -.ps1
+        -.vbs
+        -.sh
+        -.hs
+        -.py
+
+        Use Cases for scripting
+        -Basic automation
+        -Restarting machines
+        -Remapping network drives
+        -Installation of apps
+        -Auto Backups
+        -Gathering Info
+        -Initiating updates
+
+        Other Considerations
+        -Unintentionally introducing malware
+        -Inadvertently changing system setting
+        -Browswer or system crashes due to mishandling
+        
     4.9 Use remote access technologies.
-    
+        Methods/Tools
+        -Remote Desktop Protocol (RDP)
+        -Virtual Private Network (VPN)
+        -Virtual Network Computer (VNC)
+        -Secure Shell (SSH)
+        -Remote Monitoring and Management (RMM)
+        -Microsoft Remote Assistance (MSRA)
+        -Third Party Tools
+            -Screen-sharing software
+            -video-conferencing software
+            -file transfer software
+            -desktop management software
+
+        Security Considerations of each access method
+        

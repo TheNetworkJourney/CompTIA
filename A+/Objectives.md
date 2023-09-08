@@ -207,68 +207,253 @@
     -Network Tap
 
 ### 3.0 Hardware
-    3.1 Explain basic cable tupes and their connectors, features, and purposes.
+    3.1 Explain basic cable types and their connectors, features, and purposes.
+        Copper
+        -Cat 5
+        -Cat 5e
+        -Cat 6
+        -Cat 6a
+        -Coaxial
+        -Shielded vs. Unshielded
+
+        Peripheral Cables
+        -USB 2.0
+        -USB 3.0
+        -Serail
+        -Thunderbolt
+
+        Video Cables
+        -High-definition Multimedia Interface (HDMI)
+        -Display Port
+        -Digital Visual Array (DVI)
+        -Video Graphics Array (VGA)
+
+        Hard Drive Cables
+        -Serial Advanced Technology Attachement (SATA)
+        -Small Computer System Interface (SCSI)
+        -External SATA (eSATA)
+        -Integrated Drive Electronics (IDE)
+
+        Adapters
+
+        Connector Types
+        -RJ11
+        -RJ45
+        -F Type
+        -Straigth Tip (ST)
+        -Subscriber Connector (SC)
+        -Lucent Connector (LC)
+        -Punchdown Block
+        -microUSB
+        -miniUSB
+        -USB-C
+        -Molex
+        -Lightning Port
+        -D89
+        
     3.2 Install the appropriate RAM.
-    3.3 Install and configure mohterboards, central processing units, and add-on cards.
-    3.4 Install or replace the appropriate power supply.
-    3.5 Deploy and configure multifunction devices/printers and settings.
-    3.6 Install and replace printer consumables.
+        RAM Types
+        -VRAM
+        -Small Outline Dual Inline Memory Module (SODIMM)
+        -Double Data Rate 3 (DDR3)
+        -Double Data Rate 4 (DDR4)
+        -Double Data Rate 5 (DDR5)
+        -Error Correction Code (ECC) RAM
+
+        Channels
+        -Single
+        -Dual
+        -Triple
+        -Quad
+        
+    3.3 Select and install storage devices.
+        Hard Drives
+        -Speeds (5400, 7200, 10000, 15000rpm)
+        -Form Factor (2.5, 3.5)
+
+        Solid State Drives
+        -Communication Interfaces
+            -Non-Volatile Memeory Express (NVMe)
+            -SATA
+            -Peripheral Component Interconnect Express (PCIe)
+        -Form Factors (M.2, mSATA)
+        
+        Drive Configurations
+        -Redundant Array of Independent (or Inexpensive) Disks (RAID) (0, 1, 5, 10)
+
+        Removable Storage
+        -Flash Drives
+        -Memory Cards
+        -Optical Drives
+        
+    3.4 Install and configure mohterboards, central processing units, and add-on cards.
+        Motherboard Form Factors
+        -Advanced Technology eXtended (ATX)
+        -Information Technology eXtended (ITX)
+
+        Motherboard Connector Types
+        -Peripheral Component Interconnect (PCI)
+        -PCI Express (PCIe)
+        -Power Connectors
+        -SATA
+        -eSATA
+        -Headers
+        -M.2
+
+        Motherboard Compatability
+        -CPU Sockets (AMD/Intel)
+        -Server
+        -Multisocket
+        -Desktop
+        -Mobile
+
+        Basic Input/Output System (BIOS)/Unified Extensible Firmware Interface (UEFI) settings
+        -Boot Options
+        -USB Permissions
+        -Trusted Platform Module (TPM) security features
+        -Fan Considerations
+        -Secure Boot
+        -Boot Passwords
+
+        Ecryption
+        -TPM
+        -Hardware Security Module (HSM)
+
+        CPU Architecture
+        -x64/x86
+        -Advanced RISC Machine (ARM)
+        -Single-core
+        -Multicore
+        Multithreading
+        -Virtualization Support
+
+        Expansion Cards
+        -Sound
+        -Video
+        -Capture 
+        -Network Interface Card (NIC)
+
+        Cooling
+        -Fans
+        -Heat Sink
+        -Thermal Paste/Pads
+        -Liquid
+
+    3.5 Install or replace the appropriate power supply.
+        -Input 110-120 VAC vs 220-240 VAC
+        -Output 3.3V vs 5V vs 12V
+        -20-pin to 24-pin Motherboard Adapter
+        -Redundant Power Supply
+        -Modular Power Supply
+        -Wattage Rating
+    
+    3.6 Deploy and configure multifunction devices/printers and settings.
+        - Properly unboxing and setup considerations
+        - Use appropriate drivers for given OS (Printer Control Language (PCL) vs PostScript)
+        
+        Device Connectivity
+        -USB
+        -Ethernet
+        -Wireless
+
+        Public
+    
+    3.7 Install and replace printer consumables.
 
 ### 4.0 Virtualization and Cloud Computing
     4.1 Summarize cloud-computing concepts.
+    
     4.2 Summarize aspects of client-side virtualization.
 
 ### 5.0 Hardware and Network Troubleshooting
     5.1 Apply the best practice methodology to resolve problems.
+    
     5.2 Troubleshoot problems related to motherboards, RAM, CPU, and power.
+    
     5.3 Troubleshoot and diagnose problems with storage drives and RAID arrays.
+    
     5.4 Troubleshoot video, projector, and display issues.
+    
     5.5 Troubleshoot common issues with mobile devices.
+    
     5.6 Troublshoot and resolve printer issues.
+    
     5.7 Troubleshoot problems with wired and wireless networks.
 
 # [Core 2](https://partners.comptia.org/docs/default-source/resources/comptia-a-220-1102-exam-objectives-(3-0))
 ---
 ### 1.0 Operating Systems
     1.1 Identify basic features of Microsoft Windows editions.
+    
     1.2 Use the appropriate Microsoft command-line tool.
+    
     1.3 Use features and tools of the Microsoft Windows 10 operating system.
+    
     1.4 Use the appropriate Microsoft Windows 10 Control Panel utility.
+    
     1.5 Use the appropriate Window settings.
+    
     1.6 Configure Microsoft Windows networking features on a client/desktop.
+    
     1.7 Apply application installation and configuration concepts.
+    
     1.8 Explain common OS types and their purposes.
+    
     1.9 Perform OS installations and upgrades in diverse OS environment.
+    
     1.10 Identify common features and tools of the macOS/desktop OS.
+    
     1.11 Identify common features and tools of the Linux client/desktop OS.
 
 ### 2.0 Security
     2.1 Summarize various security measures and their purposes.
+    
     2.2 Compare and contrast wireless security protocols and authentication methods.
+    
     2.3 Detect, remove, and prevent malware using the appropriate tools and methods.
+    
     2.4 Explain common social-engineering attacks, threats, and vulnerabilities.
+    
     2.5 Manage and configure basic security settings in the Microsoft Windows OS.
+    
     2.6 Configure a workstation to meet best practices for security.
+    
     2.7 Explain common methods for securing mobile and embedded devices.
+    
     2.8 Use common data destruction and disposal methods.
+    
     2.9 Configure appropriate security settings on small office/home office wireless and wired networks.
+    
     2.10 Install and configure browsers and relevant security settings.
 
 ### 3.0 Software Troubleshooting
     3.1 Troubleshoot common Windows OS problems.
+    
     3.2 Troubleshoot common personal computer security issues.
+    
     3.3 Use best practice procedures for malware removal.
+    
     3.4Troubleshoot common mobile OS and application issues.
+    
     3.5 Troubleshoot common mobile OS and application security issues.
 
 ### 4.0 Operational Procedures
     4.1 Implement best practices associated with documentation and support systems information management.
+    
     4.2 Explain basic change-management best practices.
+    
     4.3 Implement workstation backup and recovery methods.
+    
     4.4 Use common safety procedures.
+    
     4.5 Summarize environment impacts and local environmental controls.
+    
     4.6 Explain the importance of prohibited content/activity and privacy, licensing, and policy concepts.
+    
     4.7 Use proper communication techniques and professionalism.
+    
     4.8 Identify the basics of scripting.
+    
     4.9 Use remote access technologies.
+    
 

@@ -449,15 +449,108 @@
         -Encrypting File System (EFS)
         
     2.6 Configure a workstation to meet best practices for security.
-    
-    2.7 Explain common methods for securing mobile and embedded devices.
-    
-    2.8 Use common data destruction and disposal methods.
-    
-    2.9 Configure appropriate security settings on small office/home office wireless and wired networks.
-    
-    2.10 Install and configure browsers and relevant security settings.
+        Data-at-rest Encryption
 
+        Password Best Practices
+        -Complexity Req (Length, Character Types)
+        -Exp Req
+        -BIOS/UEFI Passwords
+
+        End-user Best Practices
+        -Use screensaver locks
+        -Log off when not in use
+        -Secure/protect critical hardware
+        -Secure PII and passwords
+
+        Account Management
+        -Restrict user permissions
+        -Restrict log in attempts
+        -Disable guest accounts
+        -Use failed attempts lockout
+        -Use timeout/screen lock
+
+        -Change default admin account/password
+        -Disable autorun
+        -Disable autopay
+        
+    2.7 Explain common methods for securing mobile and embedded devices.
+        Screen lock
+        -Facial Recognition
+        -PIN
+        -Fingerprint
+        -Pattern
+        -Swipe
+
+        -Remote Wipes
+        -Locator Apps
+        -OS updates
+        -Device Encryption
+        -Remote backup app
+        -Failed login attempts restriction
+        -Antivirus/malware
+        -Firewalls
+        -Policies/Procedures (BYOD vs corporate owned)
+        -Internet of Things (IoT)
+        
+    2.8 Use common data destruction and disposal methods.
+        Physical
+        -Drilling
+        -Shredding
+        -Degaussing
+        -Incinerating
+
+        Recycling or Repurpose Practices
+        -Erase/Wipe
+        -Low-Level formatting
+        -Standard formatting
+
+        Outsourcing Concepts
+        -Third-party vendor
+        -Certification of destruction/recycling
+        
+    2.9 Configure appropriate security settings on small office/home office wireless and wired networks.
+        Home router settings
+        -Change default password
+        -IP filtering
+        -Firmware updates
+        -Content filtering
+        -Physical placement/secure location
+        -DHCP reservation
+        -Static WAN IP
+        -Universal Plug and play (UDnP)
+        -Screen Subnet
+
+        Wireless Specs
+        -Changing Service Set ID (SSID)
+        -Disabling SSID broadcast
+        -Encryption settings
+        -Disabling guest access
+        -Changing Channels
+
+        Firewall settings
+        -Disabling unused ports
+        -Port forwarding/mapping
+        
+    2.10 Install and configure browsers and relevant security settings.
+        Browswer download/installation
+        -Trusted sources
+            Hashing
+        -Untrusted sources
+
+        Extensions and plug-ins
+        -Trusted/untrusted
+
+        Password Managers
+        Secure Connections/sites (valid Certs)
+
+        Settings
+        -pop-up blocker
+        -clearing browser data
+        -clearing cache
+        -private-browsing mode
+        -sign-in/browsing mode sync
+        -ad Blocker
+        
 ### 3.0 Software Troubleshooting
     3.1 Troubleshoot common Windows OS problems.
         Common Symptoms

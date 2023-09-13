@@ -519,15 +519,156 @@ This is my own personal knowledge of the subjects of the Network+ as I am learni
 ## 4.0 Network Security
 
     4.1 Explain common security concepts.
+        Confidentiality, Integrity, Availibility (CIA)
 
+        Threats
+        -Internal
+        -External
+
+        Vulnerabilities
+        -Common vulnerabilities and Exposures (CVE)
+        -Zero-day
+
+        Exploits
+
+        Least Pivilige
+
+        Role-based Access
+
+        Zero Trust
+
+        Defense in Depth
+        -Network Segmentation Enforcement
+        -Perimeter Network (DMZ)
+        -Separation of Duties
+        -Network Access Control
+        -Honeypot
+
+        Authentication Methods
+        -Multifactro
+        -Terminal Access Controller Access-control System Plus (TACACS+)
+        -Single Sign-on (SSO)
+        -Remote Authentication Dial-in User Service (RADIUS)
+        -Lightweight Directory Access Protocol (LDAP)
+        -Kerberos
+        -Local Authentication
+        -802.1X
+        -Extensible Authentication Protocol (EAP)
+
+        Risk Management
+        -Security Risk Assessment
+            -Threat Assessment
+            -Vulnerability Assessment
+            -Penetration Testing
+            -Posture Assessment
+        -Business Risk Assessments
+            -Process Assessment
+            -Vendor Assessment
+
+        Security Information and Event Management (SIEM)
+        
     4.2 Compare and contrast common types of attacks.
-  
+        Technology-Based
+        -Denial-of-Service (DoS)/Distributed Denial-of-Service (DDoS)
+        -On-path attach (Man-in-the-middle attack)
+        -DNS Poisoning
+        -VLAN Hopping
+        -ARP Spoofing
+        -Rogue DHCP
+        -Rogue Access Point (AP)
+        -Evit Twin
+        -Ransomware
+        -Password Attacks
+            -Brute-force
+            -Dictionary
+        -MAC Spoofing
+        -IP Spoofing
+        -Deauthentication
+        -Malware
+
+        Human and Environment
+        -Social Engineering
+            -Phishing
+            -Taligating
+            -Piggybacking
+            -Shoulder Surfing
+            
     4.3 Given a scenario, apply network hardening tools.
+        Best Practices
+        -Secure SNMP
+        -Router Advertisement (RA) Guard
+        -Port Security
+        -Dynamic ARP Inspection
+        -Contol Plane Policing
+        -Private VLANs
+        -Disable unneeded switchports
+        -Disable unneeded network services
+        -Change Default Passwords
+        -Password Complexity/length
+        -Enable DHCP Snooping
+        -Change Default VLAN
+        -Patch and Firmware Management
+        -Access Control List
+        -Role-based Access
+        -Firewall Rules
+            -Explicit Deny
+            -Implicit Deny
 
+        Wireless Security
+        -MAC Filtering
+        -Antenna Placement
+        -Power Levels
+        -Wireless Client Isolation
+        -Guest Network Isolation
+        -Preshared Keys (PSKs)
+        -EAP
+        -Geofencing
+        -Captive Portal
+
+        IoT Access Considerations
+        
     4.4 Compare and contrast remote access methods and security implications.
+        Site-to-site VPN
 
+        CLient-to-site VPN
+        -Clientless VPN
+        -Split Tunnel vs Full Tunnel
+
+        Remote Desktop Connection
+
+        Remote Desktop Gateway
+
+        SSH
+
+        Virtual Networking Comptuing (VNC)
+
+        Virtual Desktop
+
+        Authentication and Authorization Considerations
+
+        In-band vs Out-of-band Management
+        
     4.5 Explain the importance of physical security.
+        Detection Methods
+        -Camera
+        -Motion Detection
+        -Asset Tags
+        -Tamper Detection
 
+        Prevention Methods
+        -Employee Training
+        -Access Control Hardware
+            -Badge Readers
+            -Biometrics
+        -Locking Racks
+        -Locking Cabinets
+        -Access Control Vestibule (Mantrap)
+        -Smart Lockers
+
+        Asset Disposal
+        -Factory reset/wipe configuration
+        -Sanitize Devices for Disposal
+        
 ## 5.0 Network Troubleshooting
 
     5.1 Explain the network troubleshooting methodology.

@@ -672,12 +672,168 @@ This is my own personal knowledge of the subjects of the Network+ as I am learni
 ## 5.0 Network Troubleshooting
 
     5.1 Explain the network troubleshooting methodology.
+        Identify the Problem
+        -Gather Info
+        -Question user
+        -Identify Symptoms
+        -Determine if anything has changed
+        -Duplicate problem, if possible
+        -Approach multiple problems individually
 
+        Establish a theory of probable cause
+        -Question the obvious
+        -Consider Multiple Approaches
+            -Top-to-Bottom/Bottom-to-top OSI Modil
+            -Divide and Conquer
+
+        Test the theory to determine the cause
+        -If confirmed, determine next steps to resolve the problem.
+        -If not, reestablish a new theory or escalate
+
+        Establish a plan of action to resolve the problem and identify potential effects
+
+        Implement the solution or escalate as necessary
+
+        Verify ful system functionality and, if applicable, implement preventive measures
+
+        Documetn findings, actions, outcomes, and lessons learned
+        
     5.2 Given a scenario, troubleshoot common cable connectivity issues and select the appropriate tools
+        Specifications and limitations
+        -Throughput
+        -Speed
+        -Distance
 
+        Cable Considerations
+        -Shielded or unshielded
+        -Plenum and riser-rated
+
+        Cable application
+        -Rollover cable/console cable
+        -Crossover cable
+        -Power over ethernet
+
+        Common issues
+        -Attenuation
+        -Interference
+        -Decibel (dB) loss
+        -Incorrect Pinout
+        -Bad ports
+        -Open/short
+        -Light-emitting diode (LED) status indicators
+        -Incorrect transceivers
+        -Duplexing Issues
+        -Transmit and Receive (TX/RX) reversed
+        -Dirty Optical Cables
+
+        Common Tools
+        -Cable Crimper
+        -Punchdown TOol
+        -Tone Generator
+        -Loopback Adapter
+        -Optical Time-Domain Reflectometer (OTDR)
+        -Multimeter
+        -Cable Tester
+        -Wire Map
+        -Tap
+        -Fusion Splicers
+        -Spectrum Analyzer
+        -Snip/utters
+        -Cable Stripper
+        -Fiber Light Meter
+        
     5.3 Given a scenario, use the appropriate network software tools and commands.
+        Software Tools
+        -WiFi Analyzer
+        -Protocol Analyzer/Packet Capture
+        -Bandwidth Speed Tester
+        -Port Scanner
+        -iperf
+        -NetFlow Analyzer
+        -Trivial File Transfer Protocol (TFTP) Server
+        -Termination Emulator
+        -IP Scanner
 
+        Command Line Tool
+        -ping
+        -ipconfig/ifconfig/ip
+        -nslookup
+        -traceroute/tracert
+        -arp
+        -netstat
+        -hostname
+        -route
+        -telnet
+        -tcpdump
+        -nmap
+
+        Basic Network Platform Commands
+        -show interface
+        -show config
+        -show route
+        
     5.4 Given a scenario, troubleshoot common wireless connectivity issues.
+        Specifications and Limitations
+        -Throughput
+        -Speed
+        -Distance
+        -Received Signal Strength Indication 9RSSI) Signal Strength
+        -Effective Isotropic Radiated Power (EIRP)/Power Settings
 
+        Considerations
+        -Antennas
+            -Placement
+            -Type
+            -Polarization
+        -Channel Utilization
+        -AP Association Time
+        -Site Survey
+
+        Common Issues
+        -Interference
+            -Channel Overlap
+        -Antenna Cable attenuation/signal loss
+        -RF attentuation/signal loss
+        -Wrong SSID
+        -Incorrect Passphrase
+        -Encryption Protocol Mismatch
+        -Insufficient Wireless Coverage
+        -Captive Portal Issues
+        -Client Disassociation Issues
+        
     5.5 Given a scenario, troubleshoot general networking issues.
+        Considerations
+        -Device Configuration Review
+        -Routing Tables
+        -Interface Status
+        -VLAN Assignment
+        -Network Performance Baselines
 
+        Common Issues
+        -Collisions
+        -Broadcast Storm
+        -Duplicate MAC Address
+        -Duplicate IP Address
+        -Multicast Flooding
+        -Asymmetrical Routing
+        -Switching Loops
+        -Routing Loops
+        -Rogue DHCP Server
+        -DHCP Scope Exhaustion
+        -IP setting Issues
+            -Incorrect Gateway
+            -Incorrect Subnet Mask
+            -Incorrect IP Address
+            -Incorrect DNS
+        -Missing Route
+        -Low Optical Link Budget
+        -Certificate Issues
+        -Hardware Failure
+        -Host-based/network-based firewall Settings
+        -Blocked Services, Ports, or Addresses
+        -Incorrect VLAN
+        -DNS Issues
+        -NTP Issues
+        -BYOD Challenges
+        -Licensed Feature Issues
+        -Network Performance Issues

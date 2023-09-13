@@ -447,9 +447,75 @@ This is my own personal knowledge of the subjects of the Network+ as I am learni
         Uptime/Downtime
         
     3.2 Explain the purpose of organizational documents and policies.
+        Plans and Procedures
+        -Change management
+        -Incident Response Plan
+        -Disaster Recovery Plan
+        -Business Continuity Plan
+        -System Life Cycle
+        -Standard Operating Procedures
 
+        Hardening and Security Policies
+        -Password Policy
+        -Acceptable Use Policy
+        -Bring your own device (BYOD) Policy
+        -Remote Access Policy
+        -Onboarding and offboarding Policy
+        -Security Policy
+        -Data Loss Prevention
+
+        Common Documentation
+        -Physical Network Diagram
+            -Floor Plan
+            -Rack Diagram
+            -Intermediate Distribution Frame (IDF)/Main Distribution Frame (MDF) Documentation
+        -Logical Network Diagram
+        -Wiring Diagram
+        -Site Survey Report
+        -Audit and Assessment Report
+        -Baseline Configurations
+
+        Common Agreements
+        -Non-Disclosure Agreement (NDA)
+        -Service-level Agreement (SLA)
+        -Memorandum of Understanding (MOU)
+        
     3.3 Explain high availibility and disaster recovery concepts and summarize which is the best solution.
+        Load Balancing
+        
+        Multipathing
+        
+        Network Interface Card (NIC) teaming
+        
+        Redundant Hardware/Clusters
+            -Switch
+            -Firewall
+            -Routers
 
+        Facilities and Infrastructure Support
+        -Uninterrptible Power Supply (UPS)
+        -Power Distrobution Unit (PDU)
+        -Generator
+        -HVAC
+        -Fire Suppression
+
+        Redundancy and High Availibility (HA) Concepts
+        -Cold Site
+        -Warm Site
+        -Hot Site
+        -Cloud Site
+        -Active-acitve vs. active-passive
+            -Multiple Internet Service Providers (ISPs)/Diverse Paths
+            -Virtual Router Redundancy Protocol (VRRP)/First Hop Redundancy Protocol (FHRP)
+        -Mean time to repair (MTTR)
+        -Mean time between failure (MTBF)
+        -Recovery Time Objective (RTO)
+        -Recovery Point Objective (RPO)
+
+        Network Device Backup/Restore
+        -State
+        -Configuration
+        
 ## 4.0 Network Security
 
     4.1 Explain common security concepts.

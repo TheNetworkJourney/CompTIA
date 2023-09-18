@@ -19,19 +19,21 @@
         -Organic Light-emitting Diode (OLED)- 
 
         As for other important display components of mobile devices,
-        -Touch Screen/Digitizers-
-        -Inverter-
+        -Touch Screen/Digitizers-This is used to take the input of a users touch on a pad or screen and convert it to binary the system can understand.
+        -Inverter- Used to convert DC power over to AC to light the computers screen.
         -Camera/Webcam- This is found at the top part of a laptop with a small camera lens, used for call applications such as zoom.
         WiFi Antenna Connector- Usually located along the top part of the laptops screen with a cable that runs down to the motherboard. This provides laptops with wireless connections.
     1.3 Set up and configure accessories and ports of mobile devices.
         The 4 accesories that are needed to know include;
         -Touch Pens- These pens noramlly with touch screen devices provide precise mimicking of
-        -Headsets-
-        -Speakers-
-        -Webcams-
+        -Headsets- Used for higher level sound quality to user and usually equiped with a mic.
+        -Speakers- Necassary to produce sound. Found in most, if not all, laptops but usually required for desktop users.
+        -Webcams- Used for video conferencing. Found normally along the top of the laptop screen.
 
         All accessories connect with various connection types
         -Universal Serial Bus (USB)-
+        
+
         -Lightning-
         -Serial Interfaces-
         -Near-field Communications-

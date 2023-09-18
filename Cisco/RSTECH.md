@@ -4,7 +4,23 @@
 ## 1.0 General Networking
     1.1 Use the OSI and TCP/IP models and their associated protocols to explain how data flows in
     a network
-    
+| OSI Model | Protocols | Description|
+|-----------|-----------|------------|
+|Layer 7-Application |||
+|Layer 6-Presentation|||
+|Layer 5-Session     |||
+|Layer 4-Transport   |||
+|Layer 3-Network     |||
+|Layer 2-Data Link   |||
+|Layer 1-Physical    |||
+
+| TCP/IP Model | Protocols | Description|
+|-----------|-----------|------------|
+|Layer 4-Application              |||
+|Layer 3-Host to Host (Transport) |||
+|Layer 2-Internet (Network) |||
+|Layer 1-Network Interface (Data Link/Physical) |||
+
     1.2 Describe the basic functionality and key differences of this hardware: LAN switch, router, and wireless access points
     
     1.3 Differentiate between these Layer 2 technologies: Ethernet, Fast Ethernet, Gigabit Ethernet, Serial, and Optical

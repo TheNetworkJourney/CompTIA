@@ -12,11 +12,11 @@
         
     1.2 Compare and contrast the display components of mobile devices.
         There are 5 types of displays listed in the CompTIA A+ exam to know.
-        -Liquid Crystal Display (LCD)- 
-        -In-plane Switching (IPS)- 
-        -Twisted Nematic (TN)- 
-        -Vertical Alignment (VA)- 
-        -Organic Light-emitting Diode (OLED)- 
+        -Liquid Crystal Display (LCD)- Multi-layer screen with a back light built in to light up screen.
+        -In-plane Switching (IPS)- Excellent color representation.
+        -Twisted Nematic (TN)- Offers the greatest speed. Poor viewing angles.
+        -Vertical Alignment (VA)- Middle between IPS and TN
+        -Organic Light-emitting Diode (OLED)- Each pixel runs power through it to generate light on its own. Can offer true black.
 
         As for other important display components of mobile devices,
         -Touch Screen/Digitizers-This is used to take the input of a users touch on a pad or screen and convert it to binary the system can understand.
@@ -31,43 +31,49 @@
         -Webcams- Used for video conferencing. Found normally along the top of the laptop screen.
 
         All accessories connect with various connection types
-        -Universal Serial Bus (USB)-
-        
+        -Universal Serial Bus (USB)- High speed data and charge connection.
+            -Type A- 
+            -Mini B- 
+            -Micro B- 
+            -USB C- 24-Pin Double sided. Can fit in either way.
+        -Lightning- 8-Pin Apple Propietary Cable.
+        -Serial Interfaces- DB-9 (DE-9)- Commonly supported RS-232 signals. Now used mainly for configuration connections.
+        -Near-field Communications- Very short range communications, few inches. Commonly for phone pay machines.
+        -Bluetooth- Personal Area Network Connections, Short range 30ft ish.
+        -Hotspot- Turn phone into wifi access point through phone provider's connection.
 
-        -Lightning-
-        -Serial Interfaces-
-        -Near-field Communications-
-        -Bluetooth-
-        -Hotspot-
-
-        Docking Statinos-
-        Port Replicator-
-        Trackpad/Drawing Pad-
+        Docking Stations- Station provides connectivity from peripheral devices to the laptop making it easy to connect your laptop or disconnect and go.
+        Port Replicator- Connects to laptop and extends the number and type of ports to the plug-ins availible to the station.
+        Trackpad/Drawing Pad- Advanced touch pad offering greater control and movement tracking.
         
     1.4 Configure basic mobile-devices network connectivity and application suppot.
         Wireless/cell data networks (enable/disable)
-        -2G
-        -3G
-        -4G
-        -5G
-        -Global System for Mobile Communications (GSM)-
-        -Code-division Multiple Access (CDMA)-
-        -Preferred Roaming List (PRL) Updats-
+        -2G- Had two standards come out for this generation.
+            -GSM-Global System for Mobile Communications (Multiplexing, Introduced SIM card, Worldwide Coverage)
+            -CDMA-Code Division Multiple Access (Everyone communicates at one time, Code filtering for phone calls on rec. side.
+        -3G (GPS, Mobile Telivision, Video on Demand)
+        -4G Long Term Evolution-LTE(Converged GSM/CDMA)
+            -EDGE-Enhanced Data Rates for GSM Evolution (150Mbit/s)
+            -LTE Advanced (LTE-A, 300Mbit/s) 
+        -5G (100-900 Mbit/s, up to 10Gbit/s)
+            -IoT Popular allowing with Cloud Processing
+        -Preferred Roaming List (PRL) Updates-Phone can update nearby tower list and connect ot best one.
 
-        Bluetoot
-        -Enable-
-        -Pairing-
-        -Enter PIN-
-        -Test Connectivity-
+        Bluetooth
+        -Enable-Be sure to check phone bluetooth setting for it being on and the device itself for being in discover mode. This may require specific clicks or presses on the device.
+        -Pairing- Once the device is discoverable it should show up on the phone's list and can be selected to start paring.
+        -Enter PIN- Devices usually come with a PIN or code to put into the phone to complete the paring.
+        -Test Connectivity- Check to see if the connection passes and if it works well.
 
         Location Services
-        -Global Positioning System (GPS)-
-        -Cellular Location Services-
+        -Global Positioning System (GPS)- Phone needs 4 satellite connections to get pinpoint location information.
+        -Cellular Location Services- 
 
         Mobile Device Management (MDM)/Mobile Application Management (MAM)
-        -Corporate Email Configuration-
-        -Two-Factor Authentication-
-        -Corporate Applications-
+        -Central mobile device management for companies that offer company-owned or user-owned phones. Management can set policies on apps, data, camera, and more.
+        -Corporate Email Configuration- MDM can manage the setup of emails for the user.
+        -Two-Factor Authentication- Requires two different types of authentication. This is something known like a password or pin, something biometric like fingerprint or retinal scanner, or a pseudo-random authentication app.
+        -Corporate Applications-Allow and restrict app installations.
 
         Mobile Device Synchronization
         -Account Setup (Microsoft 365, Google Workspace, iCloud)
